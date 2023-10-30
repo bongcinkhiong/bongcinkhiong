@@ -5,7 +5,7 @@
 ![_Pin-by-Buu-Dang-on-iPhone-6S-Plus-Wallpapers-Must-to-Have-in-](https://github.com/bongcinkhiong/bongcinkhiong/assets/93751865/99ce0754-1396-4aad-8cb9-b97e0f5585f2)
 
 
-- 👨‍💻 All of my projects are available at [https://zyrent.netlify.app/](https://zyrent.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://bongcin-mycv.netlify.app/)
 
 - 💬 Ask me about **Laravel,Vue,Css**
 
