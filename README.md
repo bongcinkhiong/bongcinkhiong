@@ -1,6 +1,6 @@
 Hi there 👋
 <h1 align="center">Hi Guys, I'm Bong Cin khiong 😁✌️</h1>
-<h3 align="center">i am learn some Code/Project Back En</h3>
+<h3 align="center">i am learn some Code/Project Back End</h3>
 
 ![Gamer Room_ Cyberpunk, ExceptRea](https://github.com/bongcinkhiong/bongcinkhiong/assets/93751865/dfece74b-c050-4953-81a1-b02b7e20a18b)
 
