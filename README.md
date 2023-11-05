@@ -2,8 +2,8 @@
 <h1 align="center">Hi Guys, I'm Bong Cin khiong 😁✌️</h1>
 <h3 align="center">i am learn some Code/Project Back End</h3>
 
-![_Pin-by-Buu-Dang-on-iPhone-6S-Plus-Wallpapers-Must-to-Have-in-](https://github.com/bongcinkhiong/bongcinkhiong/assets/93751865/99ce0754-1396-4aad-8cb9-b97e0f5585f2)
 
+https://tenor.com/view/mario-pixel-art-gaming-room-gif-23722022
 
 - 👨‍💻 All of my projects are available at [https://bongcin-mycv.netlify.app/)
 
