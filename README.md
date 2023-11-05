@@ -1,8 +1,9 @@
-### Hi there 👋
+Hi there 👋
 <h1 align="center">Hi Guys, I'm Bong Cin khiong 😁✌️</h1>
-<h3 align="center">i am learn some Code/Project Back End</h3>
+<h3 align="center">i am learn some Code/Project Back En</h3>
 
-<div class="tenor-gif-embed" data-postid="23722022" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/mario-pixel-art-gaming-room-gif-23722022">Mario Pixel Art GIF</a>from <a href="https://tenor.com/search/mario-gifs">Mario GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Gamer Room_ Cyberpunk, ExceptRea](https://github.com/bongcinkhiong/bongcinkhiong/assets/93751865/dfece74b-c050-4953-81a1-b02b7e20a18b)
+
 
 - 👨‍💻 All of my projects are available at [https://bongcin-mycv.netlify.app/)
 
