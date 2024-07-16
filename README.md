@@ -9,11 +9,11 @@ Hi there 👋
 
 - 💬 Ask me about **Laravel,Vue,Css**
 
-- 📫 How to reach me **"https://linkedin.com/in/https://www.linkedin.com/in/bong-cin-92aa43297"*
+- 📫 How to reach me **"https://www.linkedin.com/in/bong-cin-khiong/"*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bong-cin-92aa43297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bong-cin-92aa43297" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bong-cin-khiong/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bong-cin-92aa43297" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
